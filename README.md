@@ -1,17 +1,12 @@
-Author: {FirstName LastName} [{UA Email}]  
-Course: [433 or 533 ?]  
-Date: Jan. [18], 2022
-
-**PLEASE UPDATE THIS README TO INCLUDE:**
-* a text description of how to run your program, 
-* document any idiosyncrasies, behaviors, or bugs of note that you want us to be aware of when grading, and
-* any other comments that you feel are relevant.
+Author: {Zhengxuan Xie} [{xie98@email.arizona.edu}]  
+Course: [433]  
+Date: Jan. [28], 2022
 
 Executing program:
-
+Open index.html
 
 Description:
-
+Manipulating and rotating P6 format images using javascript
 
 Included files (**PLEASE ADD/UPDATE THIS LIST**):
 * index.html    -- a sample html file with a canvas
@@ -19,6 +14,6 @@ Included files (**PLEASE ADD/UPDATE THIS LIST**):
 * bunny.ppm     -- a test image
 
 
-**PLEASE PROVIDE ANY ATTRIBUTION HERE**
+
 * Images obtained from the following sources:
   * bunny: http://graphics.stanford.edu/data/3Dscanrep/  
